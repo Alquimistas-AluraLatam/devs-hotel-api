@@ -40,5 +40,11 @@ public class ReservaController {
         reserva.actualizarDatos(datosActualizarReserva);
     }
 
+    @DeleteMapping("/{id}")
+    @Transactional
+    public void eliminarReserva(@PathVariable Long id) {
+        Reserva reserva = reservaRepository.getReferenceById(id);
+
+    }
 
 }
