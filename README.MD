@@ -1,6 +1,6 @@
 # API REST para Sistema de Gestión del Hotel Alura
 
-Este repositorio contiene una API REST para un sistema de gestión de hotel desarrollada con Spring Boot y utiliza MySQL como base de datos. La API permite la gestión de reservas, habitaciones y huéspedes, y se incluye una colección de Postman para facilitar la prueba y la interacción con la aplicación.
+Este repositorio contiene una API REST para un sistema de gestión de hotel desarrollada con Spring Boot y utiliza MySQL como base de datos. La API permite la gestión de reservas y se incluye una colección de Postman para facilitar la prueba y la interacción con la aplicación.
 
 ## Tecnologías Utilizadas
 **Spring Boot:** Spring Boot es un framework de Java que simplifica el desarrollo de aplicaciones web y APIs RESTful.
