@@ -1,13 +1,13 @@
-package com.aluracursos.hotelalura;
+package com.aluracursos.devshotel;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class HotealuraApplication {
+public class DevsHotelApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(HotealuraApplication.class, args);
+		SpringApplication.run(DevsHotelApplication.class, args);
 	}
 
 }

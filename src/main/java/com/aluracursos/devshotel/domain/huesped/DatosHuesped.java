@@ -1,4 +1,4 @@
-package com.aluracursos.hotelalura.modelos;
+package com.aluracursos.devshotel.domain.huesped;
 
 import javax.validation.constraints.Email;
 import javax.validation.constraints.NotBlank;

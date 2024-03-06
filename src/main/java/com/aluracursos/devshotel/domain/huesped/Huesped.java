@@ -1,4 +1,4 @@
-package com.aluracursos.hotelalura.modelos;
+package com.aluracursos.devshotel.domain.huesped;
 
 import jakarta.persistence.Embeddable;
 import lombok.AllArgsConstructor;

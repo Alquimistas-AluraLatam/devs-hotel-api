@@ -1,7 +1,7 @@
-package com.aluracursos.hotelalura.modelos;
+package com.aluracursos.devshotel.domain.reserva;
 
-import javax.validation.Valid;
-import javax.validation.constraints.NotBlank;
+import com.aluracursos.devshotel.domain.huesped.DatosHuesped;
+
 import javax.validation.constraints.NotNull;
 import java.time.LocalDate;
 

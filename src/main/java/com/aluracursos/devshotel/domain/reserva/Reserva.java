@@ -1,4 +1,5 @@
-package com.aluracursos.hotelalura.modelos;
+package com.aluracursos.devshotel.domain.reserva;
+import com.aluracursos.devshotel.domain.huesped.Huesped;
 import com.fasterxml.jackson.annotation.JsonFormat;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

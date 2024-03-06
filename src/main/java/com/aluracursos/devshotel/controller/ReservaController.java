@@ -1,10 +1,10 @@
-package com.aluracursos.hotelalura.controller;
+package com.aluracursos.devshotel.controller;
 
-import com.aluracursos.hotelalura.modelos.DatosActualizarReserva;
-import com.aluracursos.hotelalura.modelos.DatosListadoReserva;
-import com.aluracursos.hotelalura.modelos.DatosRegistroReserva;
-import com.aluracursos.hotelalura.modelos.Reserva;
-import com.aluracursos.hotelalura.repository.ReservaRepository;
+import com.aluracursos.devshotel.domain.reserva.DatosActualizarReserva;
+import com.aluracursos.devshotel.domain.reserva.DatosListadoReserva;
+import com.aluracursos.devshotel.domain.reserva.DatosRegistroReserva;
+import com.aluracursos.devshotel.domain.reserva.Reserva;
+import com.aluracursos.devshotel.repository.ReservaRepository;
 import jakarta.transaction.Transactional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;

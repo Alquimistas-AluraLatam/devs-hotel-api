@@ -1,4 +1,4 @@
-package com.aluracursos.hotelalura.modelos;
+package com.aluracursos.devshotel.domain.reserva;
 
 public enum FormaDePago {
     DEBITO,
