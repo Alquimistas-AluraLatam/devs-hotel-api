@@ -1,6 +1,6 @@
 package com.aluracursos.devshotel.infra.security;
 
-import com.aluracursos.devshotel.domain.usuarios.UsuarioRepository;
+import com.aluracursos.devshotel.repository.UsuarioRepository;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;

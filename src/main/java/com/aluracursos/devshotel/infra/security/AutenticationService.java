@@ -1,6 +1,6 @@
 package com.aluracursos.devshotel.infra.security;
 
-import com.aluracursos.devshotel.domain.usuarios.UsuarioRepository;
+import com.aluracursos.devshotel.repository.UsuarioRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
